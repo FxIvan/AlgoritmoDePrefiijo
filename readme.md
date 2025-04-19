@@ -5,7 +5,9 @@
 
 Cosas que se utilizan que me parece interesante:
 Se trabaja sobre prefijo
+
 Pude ver la forma y entender como funciona un arbol, ya que ah este momento todavia no lo vi en la universidad(primer año)
+
 Utilizamos punteros
 
 Recursos:
