@@ -4,6 +4,7 @@
 > Seleccione este proyecto por que creo que lo voy a utilizar constantemente en mi trabajo. Existe otros algoritmo que me interesaria, pero hago este en especial por su beneficio.
 
 Cosas que se utilizan que me parece interesante:
+
 Se trabaja sobre prefijo
 
 Pude ver la forma y entender como funciona un arbol, ya que ah este momento todavia no lo vi en la universidad(primer año)
