@@ -97,6 +97,7 @@ Definir estructura Trie
 Fin de estructura Trie
 ```
 
+Descripcion de lo que hace la funcion NewTrie
 1. Crea la estructura base del Trie que luego será usada para insertar y buscar palabras.
 2. Asegura que cada Trie comience limpio, con un nodo raíz vacío y sin hijos.
 3. Establece la base sobre la cual se construyen las ramas del árbol (una por cada carácter insertado).
